@@ -99,7 +99,7 @@ public class Create_Maximum_Number_p321_sol1 {
             
             //we will always reach here, and we only add the nums if stack.size() < k, which means adding
             //nums[i] can make the max nums so far
-            if( k < stack.size() ) stack.push( nums[i] );
+            if( k > stack.size() ) stack.push( nums[i] );
         }
         
         for(int i = k - 1; i >= 0; i--) result[i] = stack.pop();
