@@ -17,7 +17,7 @@ The speed was fast in the beginning (20 problems/day), but then the speed decrea
 
 I had the most diffcult week when doing problems 301-336 (0 ~ 10 problems/day).
 
-At one hand, those problems were newly added and diffcult, at the other hand, I have heavy pressure from my work. I was being really tired during this period. But finally I survived and finished this round 4.
+At one hand, those problems were newly added and diffcult, at the other hand, I had heavy pressure from my work. I was being really tired during this period. But finally I survived and completed this round 4.
 
 Anyway, Round 4 is finished! Cheers!
 
